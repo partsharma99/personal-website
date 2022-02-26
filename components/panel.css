@@ -1,0 +1,30 @@
+.hello-text {
+    font-size: 2em;
+}
+
+
+.RightContent {
+    text-align: left;
+    width: 550px;
+
+}
+
+#right-text{
+    float: right;
+}
+
+#bold-text {
+    font-weight: 700;
+}
+
+#italic-text {
+    font-style:italic;
+}
+
+#wave {
+    width: 32px;
+}
+
+#desc {
+    margin: 0px 0px 10px 0px;
+}
